@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Felix** — a passionate **Software Engineer** driven by curiosity, precision, and a love for elegant engineering.  
+A passionate **Software Engineer** driven by curiosity, precision, and a love for elegant engineering.  
 Born to code, I specialize in designing scalable systems, automating workflows, and bringing ideas to life through clean, maintainable code.
 
 💡 *“Write code that speaks for itself.”*
