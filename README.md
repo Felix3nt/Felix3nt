@@ -53,11 +53,11 @@ Born to code, I specialize in designing scalable systems, automating workflows, 
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felix3nt&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix3nt&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
-
+-->
 ---
 
 ## 💬 Connect with Me
